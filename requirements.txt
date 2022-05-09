@@ -1,0 +1,2 @@
+Example: pip install tensorflow~=2.3.0
+tensorflow~=2.3.0
